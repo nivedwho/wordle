@@ -1,3 +1,1 @@
-# Wordle
-
-#Type and Press Enter to submit Word
+# FSD | Assignment - 1
